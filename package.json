@@ -1,0 +1,11 @@
+{
+  "name": "mean_todo",
+  "version": "1.0.0",
+  "description": "mean_todo",
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "akash",
+  "license": ""
+}
